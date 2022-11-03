@@ -1,0 +1,6 @@
+---
+title: "Assignment_b1"
+author: Ariel Rosen
+date: November/4/2022
+output: github_document
+---
