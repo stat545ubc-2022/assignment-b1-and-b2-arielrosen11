@@ -46,7 +46,7 @@ mean_median <-function(x) {
 
 ```
 
-```{r}
+```{r error = TRUE}
 #Throwing an error for applying the function to non-numerical variables
 (mean_median_error <- mean_median(gapminder$country))
 (mean_median_error_2 <- mean_median(c(TRUE, FALSE, TRUE, TRUE)))
