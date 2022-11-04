@@ -24,7 +24,7 @@ library(testthat)
 #' @return a vector containing the mean and median of the variables. 
 #' 
 #' @examples: #Using the function to calculate the mean and median gdp per capita in the gapminder data set
-(mean_median_gdpPercap <- mean_median(gapminder$gdpPercap))
+#' mean_median_gdpPercap <- mean_median(gapminder$gdpPercap)
 
 mean_median <-function(x) {
   stopifnot(is.numeric(x))
