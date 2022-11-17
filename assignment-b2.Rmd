@@ -1,0 +1,21 @@
+---
+title: "Assignment_b2"
+author: Ariel Rosen
+date: November/18/2022
+output: github_document
+---
+```{r}
+#Loading required packages
+library(devtools)
+library(here)
+```
+
+```{r}
+create_package("~/Desktop/MeanMedian")
+```
+```{r}
+#export function 
+#' @export
+#' 
+```
+
