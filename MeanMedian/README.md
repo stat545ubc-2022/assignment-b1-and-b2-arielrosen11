@@ -7,7 +7,7 @@
 <!-- badges: end -->
 
 The goal of MeanMedian is to easily compute the mean and median of a set
-of value.
+of values.
 
 ## Installation
 
